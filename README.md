@@ -2,6 +2,20 @@
 
 A server , network device and storage node connecter script suite which allows to manage clusters and single nodes.
 
+# Forges
+
+* https://github.com/amassivus/cyber_nodular
+
+* https://gitlab.com/masscollabs/amassivus/cyber_nodular
+
+* https://git.sr.ht/~mertgor/cyber_nodular
+
+* https://git.vern.cc/amassivus/cyber_nodular
+
+* https://git.disroot.org/amassivus/cyber_nodular
+
+* https://codeberg.org/amassivus/cyber_nodular
+
 # License
 
 A server , network device and storage node connecter script suite which allows to manage clusters and single nodes.
